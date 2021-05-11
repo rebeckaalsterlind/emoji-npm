@@ -1,0 +1,15 @@
+{
+  "name": "@alsterlind/emoji",
+  "version": "1.0.0",
+  "description": "replaces string with emoji",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "emoji",
+    "replace"
+  ],
+  "author": "Rebecka Alsterlind",
+  "license": "ISC"
+}
